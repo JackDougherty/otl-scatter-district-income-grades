@@ -2,11 +2,12 @@ otl-scatter-districts-income-grades
 ===================
 CT school districts by income and grade levels 2009-13 in Highcharts scatter chart
 
-## live link
-https://jackdougherty.github.io/otl-scatter-districts-income-grades/index.html
+## demo
+https://ontheline.github.io/otl-scatter-districts-income-grades/index.html
 
-## created for OnTheLine book
-- http://ontheline.trincoll.edu
+## embed in [On The Line book](http://ontheline.trincoll.edu)
+```
+<iframe src='https://ontheline.github.io/otl-scatter-districts-income-grades/index.html' width="100%" height = 500></iframe>
 
 ## license
 http://www.highcharts.com is free for personal websites, school sites, or non-profit organizations. Commercial use requires the purchase of a license.
